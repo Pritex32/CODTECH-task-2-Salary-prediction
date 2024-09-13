@@ -1,5 +1,21 @@
 # Salary Analysis
 
+## Table of Content
+-[Project Overview](project-overview)
+
+-[Data Source ](data-source)
+
+-[Tools](tools)
+
+-[ Data Cleaning]( data-cleaning)
+
+-[ Data Analysis]( data-analysis)
+
+-[Solution](solution)
+
+-[Limitation](limitation)
+
+
 ### Project Overview
 this project is all about build a linear regression model with the years of experience of employees to predict future salary
 
@@ -26,7 +42,7 @@ model was built with Linear regression algorithm ,accuracy of 0.94 and test scor
 ### Solution
 With this model , the company can reduce cost, reduce account fraud and account error
 
-### limitation
+### Limitation
 No column was removed, only two variable used for analysis
 
 😄
