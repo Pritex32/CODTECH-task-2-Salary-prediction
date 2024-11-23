@@ -1,10 +1,4 @@
-# Name: Ukanwa Prisca Oluomachi
-# Comapany: CODTECH IT SOLUTIONS
-# ID: COD67690
-# Domain: Data Science
-# Mentor: Muzammil
-
-# Salary Analysis
+# Salary prediction app
 
 ## Table of Content
 -[Project Overview](project-overview)
