@@ -15,15 +15,17 @@
 
 -[Limitation](limitation)
 
+# To run this app click(https://salarypredictionbyprisca.streamlit.app/)
 
 ### Project Overview
-This project is about developing linear regression model with the years of experience of employees to predict future salary
+This project is about developing linear regression model with the years of experience of employees to predict future salaries
 
 ### Data Source 
 this dataset is from kaggle .com
 
-### Tools
-- Python - for analysis
+### Tools and library used
+- Python- for analysis
+- numpy - for analysis
 - Pandas - for data manipulation
 - Matplotlib for visualization
 - sklearn - for model building
