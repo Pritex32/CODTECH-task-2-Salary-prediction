@@ -1,11 +1,6 @@
-
-
 joblib==1.4.2
 numpy==1.26.4
 pandas==2.2.2
 streamlit==1.38.0
-featq==1.0.0
-pdc-dp-means==0.0.8
 scikit-learn==1.5.2
-the1owl==0.0.8
-theBrainFuck==0.0.3
+
