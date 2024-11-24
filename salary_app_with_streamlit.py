@@ -4,7 +4,7 @@ import streamlit as st
 import joblib
 
 
-df=pd.read_csc(Salary_dataset.csv')
+df=pd.read_csc('Salary_dataset.csv')
 
 df.head()
 # removing feature
